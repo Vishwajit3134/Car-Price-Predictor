@@ -2,7 +2,7 @@
 
 ### 🔹 Application Demo Interface
 
-![Demo Screenshot](Demo.png)
+![Demo Screenshot](demo.png)
 
 ---
 
