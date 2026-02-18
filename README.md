@@ -1,3 +1,14 @@
+## 📸 Screenshots
+
+### 🔹 Application Demo Interface
+
+![Demo Screenshot](Demo.png)
+
+---
+
+### 🔹 Prediction Example
+
+![Prediction Screenshot](predict.png)
 
 ---
 
